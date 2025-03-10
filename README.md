@@ -110,6 +110,3 @@ The **Zudio Analysis** project underscores how robust data analytics can drive b
 ## 10. Self-Guide Project 🚀
 If you’d like to explore or replicate this project:
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/<YourGitHubUsername>/Zudio-Analysis.git

@@ -1,4 +1,4 @@
-# Zudio Analysis 👟
+# Zudio Analysis 
 
 
 
@@ -10,7 +10,7 @@ The **Zudio Analysis** project aims to provide a comprehensive look into Zudio�
 ## 2. Tools 🛠️
 - **Excel**: Initial data cleaning, quick checks, and basic visualizations  
 - **Power BI**: Advanced data modeling,DAX,interactive dashboards, and visual analytics  
-- 
+  
 
 ---
 
